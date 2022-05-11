@@ -55,8 +55,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `name`, `email`, `password`, `created`, `modified`) VALUES
-(1, 'Brad Doe', 'test@test.com', '$2y$10$2oC.sVWPpSASFFgE26AVVeiSB085.L6JpohFo4Myz66ugc1LRRfDC', '2015-12-14 16:14:11', '2015-12-14 16:19:47'),
-(2, 'John Doe', 'jdoe@gmail.com', '$2y$10$wDumMy4F6zqpXXI1Fw139.fuaOvfaJ/SjSU5eBKu4FKYKU4uOMwsm', '2015-12-14 16:55:56', '2015-12-14 16:55:56');
+(1, 'Marcus Guarani', 'test@test.com.br', '$2y$10$2oC.sVWPpSASFFgE26AVVeiSB085.L6JpohFo4Myz66ugc1LRRfDC', '2020-12-14 16:14:11', '2020-12-14 16:19:47'),
 
 --
 -- Indexes for dumped tables

@@ -1,2 +1,2 @@
 # login-CakePHP
-Login/autenticação simples feito em CakePHP
+Login/autenticação simples

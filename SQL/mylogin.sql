@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: 127.0.0.1
--- Generation Time: Dec 14, 2015 at 06:01 PM
+-- Generation Time: Dec 14, 2020 at 06:01 PM
 -- Server version: 10.0.17-MariaDB
 -- PHP Version: 5.6.14
 
@@ -17,7 +17,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `login`
+-- Database: `mylogin`
 --
 
 -- --------------------------------------------------------
